@@ -96,6 +96,10 @@ img {
     top: 0;
 }
 
+.prefix {
+    font-size: 35px;
+}
+
 @media (max-width: 900px) {
     .slide-name {
         left: 50%;
