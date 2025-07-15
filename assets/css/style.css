@@ -10,7 +10,8 @@ a {
     text-decoration: none;
 }
 
-html, body {
+html,
+body {
     width: 100%;
     height: 100vh;
     overflow: hidden;
@@ -40,6 +41,7 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    filter: grayscale(1);
 }
 
 .slider-content {
@@ -108,27 +110,3 @@ img {
         right: 10%;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
